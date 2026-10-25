@@ -1,6 +1,6 @@
 {
   "name": "Ocean",
-  "description": "Ocean Themed, ported for Next",
+  "description": "Ocean Theme, originally by fh7k, updated for Discord's September 25 that broke everything",
   "authors": [
     {
       "name": "fh7k",
@@ -18,6 +18,7 @@
     "MENTION_BACKGROUND": ["#00CFFF"],
     "MENTION_FOREGROUND": ["#00CFFF"],
     "TEXT_DEFAULT": ["#FFFFFF"],
+    "MOBILE_TEXT_HEADING_PRIMARY": ["#0088FF"],
 
     "INPUT_BACKGROUND_DEFAULT": ["#0A1117"],
 
@@ -43,7 +44,7 @@
     "SLIDER_TRACK_BACKGROUND": ["#0088FF20"],
     "PROGRESSBAR_TRACK_BACKGROUND": ["#0088FF20"],
 
-    "CONTROL_PRIMARY_BORDER_ACTIVE": ["#0088FF"],
+    "INTERACTIVE_TEXT_DEFAULT": ["#0088FF"],
     "CONTROL_SECONDARY_BORDER_ACTIVE": ["#00CFFF"],
 
     "MOBILE_FLOATING_ACCESSORY_BACKGROUND": ["#101820"],
@@ -90,18 +91,4 @@
     "PLUM_22": "#081018",
     "PLUM_23": "#101820",
     "PLUM_24": "#101820"
-  },
-
-  "plus": {
-    "version": "0",
-    "iconpack": "rosiecord-plumpy",
-    "icons": {
-      "ic_new_pins": ["#00CFFF"],
-      "StatusStreaming": ["#0088FF"],
-      "StatusMobileOnline": ["#7FFFD4"],
-      "StatusDND": ["#00CFFF"],
-      "StatusOffline": ["#0088FF"],
-      "StatusOnline": ["#7FFFD4"]
-    }
   }
-}
