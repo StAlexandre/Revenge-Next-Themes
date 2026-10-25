@@ -19,6 +19,7 @@
     "MENTION_FOREGROUND": ["#00CFFF"],
     "TEXT_DEFAULT": ["#FFFFFF"],
     "MOBILE_TEXT_HEADING_PRIMARY": ["#0088FF"],
+    "TEXT_STRONG": ["00CFFF"],
 
     "INPUT_BACKGROUND_DEFAULT": ["#0A1117"],
     "CHAT_INPUT_BACKGROUND": ["#0088FF"],
@@ -56,13 +57,14 @@
     "CONTROL_SECONDARY_BORDER_ACTIVE": ["#00CFFF"],
 
     "BACKGROUND_NESTED_FLOATING": ["#101820"],
-    "BADGE_NOTIFICATION_BACKGROUND": ["#00CFFF"]
+    "BADGE_NOTIFICATION_BACKGROUND": ["#00CFFF"],
+    "BACKGROUND_FEEDBACK_NOTIFICATION": ["#00CFFF"]
 
   },
 
   "background": {
     "url": "https://raw.githubusercontent.com/corpsecrown/revenge-themes-for-evb/refs/heads/main/OceanVibe.jpg",
-    "alpha": 0.7,
+    "alpha": 0.55,
     "blur": 1
   },
 
@@ -81,7 +83,7 @@
     "PRIMARY_800": "#030608",
     "PRIMARY_900": "#000000",
 
-    "NEUTRAL_37": "#0A1117",
+    "NEUTRAL_37": "#7FFFD4",
     "NEUTRAL_88": "#0A1117",
 
     "GREEN_360": "#00CFFF",
