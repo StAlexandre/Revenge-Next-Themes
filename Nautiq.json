@@ -54,7 +54,8 @@
   "background": {
     "url": "https://raw.githubusercontent.com/corpsecrown/revenge-themes-for-evb/refs/heads/main/OceanVibe.jpg",
     "alpha": 0.55,
-    "blur": 1
+    "blur": 1,
+    "dimming": 0
   },
 
   "rawColors": {
@@ -92,3 +93,4 @@
     "PLUM_23": "#101820",
     "PLUM_24": "#101820"
   }
+}
